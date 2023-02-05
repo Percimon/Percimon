@@ -10,7 +10,7 @@ Technologies that I use:
   <li>SQLite</li>
 </ul>
 
-Unfortunately, due to my company security policy I can't share with most of my code, but I share with glimpse of it here.
+Unfortunately, due to my company security policy I can't upload most of my code to public repositories, but I share with glimpse of it here.
 
 Other profiles:
 <ul>
