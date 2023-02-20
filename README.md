@@ -5,8 +5,8 @@ Currently I develop standalone applications and plugins for different BIM ((B)ui
 
 Technologies that I use:
 <ul>
-  <li>C# (mostly, C#8)</li>
-  <li>WPF (with MVVM pattern) or ASP NET Core Web Api + UI frameworks</li>
+  <li>C#</li>
+  <li>WPF or ASP NET Core Web Api + UI frameworks</li>
   <li>SQLite</li>
 </ul>
 
