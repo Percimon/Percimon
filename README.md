@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! 👋</h1>
 <h3 align="center">My name is Vlad, I'm a C# Developer with 3 years' experience. Nice to meet you!</h3>
 
-Currently I develop standalone applications and plugins for different BIM ((B)uilding (I)nformation (M)odeling) software and small web-applications for data management and communication between structural engineers.
+Nowadays I create standalone applications and plugins for different BIM ((B)uilding (I)nformation (M)odeling) software and small web-applications for data management and communication between structural engineers.
 
 Technologies that I use:
 <ul>
