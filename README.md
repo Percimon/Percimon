@@ -6,8 +6,8 @@ Nowadays I create standalone applications and plugins for different BIM ((B)uild
 Technologies that I use:
 <ul>
   <li>C#</li>
-  <li>WPF / ASP.NET Core Razor Pages / ASP.NET Core Web API</li>
-  <li>SQL (MysSQL, SQLite)</li>
+  <li>WPF / ASP.NET Core</li>
+  <li>SQL</li>
 </ul>
 
 Unfortunately, due to my company security policy I can't upload most of my code to public repositories, but I share with glimpse of it here.
