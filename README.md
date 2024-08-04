@@ -10,14 +10,6 @@ Technologies that I use:
   <li>SQL</li>
 </ul>
 
-Unfortunately, due to my company security policy I can't upload most of my code to public repositories, but I share with glimpse of it here.
-For example:
-<ul>
-  <li>https://github.com/Percimon/DrawingObjectEditor</li>
-  <li>https://github.com/Percimon/TeklaModelAssistant</li>
-  <li>https://github.com/Percimon/TeklaDynamoLink</li>
-</ul>
-
 Other profiles:
 <ul>
   <li>Leetcode: https://leetcode.com/percimon</li>
